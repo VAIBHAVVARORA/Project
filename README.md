@@ -10,7 +10,7 @@ This is a basic to-do list application built using HTML, CSS, and JavaScript.
 1. Clone this repository:
 
 ```bash
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    git clone https://github.com/VAIBHAVVARORA/Project.git
 ```
 
 2. Open the `index.html` file in your web browser.
